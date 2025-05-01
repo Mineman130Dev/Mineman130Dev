@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello there! I'm Mineman130.
+I'm a Highschool software developer that develops apps for MacOS, Windows, and Linuix. I also make websites
 
-<!--
-**Mineman130Dev/Mineman130Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About me
+- I'm a small Youtuber (140 subscribers)
 
-Here are some ideas to get you started:
+# Socails
+- [Youtube](https://www.youtube.com/@Mineman130TheFirst)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Things I'm leraning
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=xcode,swift)
+
+# Things I use
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=kitty,github,youtube,cloudflare,steam,obs,reddit)
+
+# What I know
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,pygame,html)
