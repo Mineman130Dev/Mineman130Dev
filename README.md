@@ -7,7 +7,7 @@ I'm a Highschool software developer that develops apps for MacOS, Windows, and L
 # Socails
 - [Youtube](https://www.youtube.com/@Mineman130TheFirst)
 
-# Things I'm leraning
+# Things I'm learning
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=xcode,swift)
 
 # Things I use
