@@ -2,7 +2,7 @@
 I'm a Highschool software developer that develops apps for MacOS, Windows, and Linuix. I also make websites
 
 # About me
-- I'm a small Youtuber (140 subscribers)
+- I'm a small Youtuber (190 subscribers)
 
 # Socails
 - [Youtube](https://www.youtube.com/@Mineman130TheFirst)
