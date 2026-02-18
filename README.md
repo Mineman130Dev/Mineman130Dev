@@ -12,6 +12,7 @@ I'm a Highschool software developer that develops apps for MacOS, Windows, and L
 
 # Things I'm learning
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c#)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,html)
 
 # Things I use
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=kitty,github,youtube,cloudflare,steam,obs,reddit)
