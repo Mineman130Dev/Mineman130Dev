@@ -1,13 +1,12 @@
 # Hello there! I'm Mineman130.
-I'm a Highschool software developer that develops apps for MacOS, Windows, and Linuix. I also make websites
+I'm a College software developer that develops apps and websites for MacOS, Windows, and Linuix.
 
 # About me
-- I like to try to make games and code on various projects
+I enjoy to make websites, attempt to create apps and model from time to time.
 
 # Socials
-- [Website](https://mineman130.dev/)
+- [Website](...)
 - [Youtube Main Channel](https://www.youtube.com/@Mineman130TheFirst)
-- [Youtube Second Channel](https://www.youtube.com/@MineTheMan)
 - [Itch.io](https://mineman130dev.itch.io/)
 
 # Things I'm learning
